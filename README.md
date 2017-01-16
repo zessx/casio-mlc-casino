@@ -1,2 +1,5 @@
-# casio-mlc-casino
-:grey_exclamation: Outdated repository
+# MLC Casino
+:grey_exclamation: Outdated repository  
+Slot machine game, made with MLC language.
+
+Find this project on [Planet Casio](http://www.planet-casio.com/Fr/programmes/voir_un_programme_casio.php?showid=1100).
